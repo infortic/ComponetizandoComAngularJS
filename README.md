@@ -18,4 +18,4 @@ Projeto ainda em desenvolvimento
 
  ##### BannerTic
 
- ![alt text](images/baner.jpg)
+ ![alt text](images/banner.jpg)
